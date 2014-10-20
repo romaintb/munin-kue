@@ -35,27 +35,21 @@ if ( exists $ARGV[0] and $ARGV[0] eq "config" ) {
 
     print "inactive.label Inactive\n";
     print "inactive.info Inactive\n";
-    print "inactive.draw LINE2\n";
 
     print "complete.label Complete\n";
     print "complete.info Complete\n";
-    print "complete.draw LINE2\n";
 
     print "active.label Active\n";
     print "active.info Active\n";
-    print "active.draw LINE2\n";
 
     print "failed.label Failed\n";
     print "failed.info Failed\n";
-    print "failed.draw LINE2\n";
 
     print "delayed.label Delayed\n";
     print "delayed.info Delayed\n";
-    print "delayed.draw LINE2\n";
 
     print "worktime.label Worktime\n";
     print "worktime.info Worktime\n";
-    print "worktime.draw LINE2\n";
     print "worktime.type COUNTER\n";
 
     exit 0;
