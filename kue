@@ -56,6 +56,8 @@ if ( exists $ARGV[0] and $ARGV[0] eq "config" ) {
     print "worktime.label Worktime\n";
     print "worktime.info Worktime\n";
     print "worktime.draw LINE2\n";
+    print "worktime.type COUNTER\n";
+
     exit 0;
 }
 
