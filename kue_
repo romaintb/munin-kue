@@ -65,6 +65,7 @@ for ($0) {
 	    print "inactive.info Inactive\n";
 	    print "complete.label Complete\n";
 	    print "complete.info Complete\n";
+	    print "complete.type COUNTER\n";
 	    print "active.label Active\n";
 	    print "active.info Active\n";
 	    print "failed.label Failed\n";
