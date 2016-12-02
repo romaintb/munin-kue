@@ -1,5 +1,7 @@
 # munin-kue
 
+*WARNING* this is deprecated. It worked on older versions of kue.
+
 Munin plugin to monitor kue. Written in perl.
 
 ## about
